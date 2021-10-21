@@ -1,0 +1,31 @@
+
+    h1{
+        font-family:impact;
+        font-size:x-large;
+    }
+    td{
+    font-family:cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+    }
+    ol{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    }
+    a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    }
+    td{
+        text-align: center;
+width: 330px; 
+height: 100px;
+font-size: 25px;
+    }
+    th{text-align: center;
+        width: 330px; 
+        height: 100px;
+        font-size: 25px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
